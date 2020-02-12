@@ -27,7 +27,7 @@
       copyright notice that is included in or attached to the specification
       (an example is provided in Appendix A below).
 
-      "Derivative Specifications" shall mean any work that is based on (or derived from) the Specification and for which the
+      "Derivative Specifications" shall mean any specification that is based on (or derived from) the Specification and for which the
       editorial revisions, annotations, elaborations, or other modifications
       represent, as a whole, an original work of authorship.
 
