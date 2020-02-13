@@ -102,13 +102,15 @@
       (b) You must cause any modified files to carry prominent notices
           stating that You changed the files; and
 
-      (c) You must retain, in any Derivative Specifications
+      (c) If you modify the Specification, You must change its name; and
+
+      (d) You must retain, in any Derivative Specifications
           that You distribute, all copyright, patent, trademark, and
           attribution notices from the Specification,
           excluding those notices that do not pertain to any part of
           the Derivative Specifications; and
 
-      (d) If the Specification includes a "NOTICE" text file as part of its
+      (e) If the Specification includes a "NOTICE" text file as part of its
           distribution, then any Derivative Specifications that You
           distribute must include a readable copy of the attribution notices
           contained within such NOTICE file, excluding those notices that do
