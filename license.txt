@@ -220,10 +220,46 @@
    IN CONNECTION WITH THE LICENSE OR THE USE OR OTHER DEALINGS IN THE
    LICENSE.
 
-   This license is a modification of Apache License 2.0, modified only to
-   clarify the rights granted with respect to developing products
-   complying with or seeking compliance with the licensed specification.
-   You may obtain a copy of the unmodified license at
+   This license is a modification of Apache License 2.0. You may obtain a
+   copy of the unmodified license at
 
        http://www.apache.org/licenses/LICENSE-2.0
 
+   The changes to the terms and conditions are:
+
+    - Removed "Source" and "Object" definitions, and references to those
+      definitions in the terms;
+
+    - Reworded "Work" and "Derivative Works" into "Specification" and
+      "Derivative Specifications" to avoid confusion with works of
+      authorship seeking compliance with the specification;
+
+    - Reworded the definitions of aforementioned to refer only to
+      specifications, instead of any form of work of authorship;
+
+    - Added "Your Designs" definition;
+
+    - Added clauses 2b, 2c (2a contains the original contents of clause 2);
+
+    - Modified clause 3 to allow the licensee to use any patents governing
+      the specification for their designs;
+
+    - Added clause 4;
+
+    - Modified clause 7 (originally clause 6) to allow licensee to
+      reasonably use any trademarks pertaining to the specficiation to
+      claim compliance.
+
+   In addition:
+
+    - The license was renamed in order to avoid confusion and as per the
+      requirements set by the Apache Software Foundation at
+
+          https://www.apache.org/foundation/license-faq.html#mod-license
+
+    - This appendix was added to list the changes made.
+
+   You can verify these changes if you so desire through the Git commit log
+   of this license at
+
+       TODO
